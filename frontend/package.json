@@ -1,0 +1,21 @@
+{
+  "name": "weather-app-frontend",
+  "version": "1.0.0",
+  "description": "Weather App Frontend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite",
+    "preview": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
